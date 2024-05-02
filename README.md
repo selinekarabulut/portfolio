@@ -15,7 +15,6 @@ Hello! I like applying inferential and predictive statistical models to economic
 ## Work Experience
 
 ### Data Scientist @ The Associated Press (November 2023 - present)
-- Employ statistical models to predict voter turnout for races in every locality tabulated by the AP.
 - Develop time‑series regression models to predict the number of votes received per combination of U.S. geographical location and electoral
 race.
 - Employ the K‑means and hierarchical clustering algorithms to identify counties that show similar turnout trends and have similar socioeconomic
@@ -36,7 +35,10 @@ day.
 - Teaching Assistant for Statistical Methods and Political Science courses
 -  Selected Courses: Understanding Data, Probability and Statistics,\
   US Minority Politics, Politics of the Environment
--  Won the Adams‑Lee Distinguished Teaching Assistant Scholarship,\
+-  Won the Adams‑Lee Distinguished Teaching Assistant Scholarship (x2),\
   Nominated for the UCSB Academic Senate Award for Teaching Assistants
+
+## Projects 
+[https://gendergappoliticalpartyleadership.streamlit.app]
 
 
