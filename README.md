@@ -13,3 +13,6 @@ Hello! I like applying inferential and predictive statistical models to economic
   - B.A., International Relations
 
 ## Work Experience
+
+### Data Scientist @ The Associated Press
+- 
