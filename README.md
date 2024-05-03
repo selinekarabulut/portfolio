@@ -18,7 +18,7 @@ Hello! I like applying inferential and predictive statistical models to economic
 
 ### Data Scientist @ The Associated Press (November 2023 - present)
 - Develop time‑series regression models to predict the number of votes received per combination of U.S. geographical location and electoral
-race.
+race, and then deploy these models in production.
 - Employ the K‑means and hierarchical clustering algorithms to identify counties that show similar turnout trends and have similar socioeconomic
 and demographic characteristics.
 - Implement bootstrapping techniques to estimate voter turnout for counties with insufficient data. Utilize available turnout data from sampled reporting units to extrapolate and improve the accuracy of turnout analyses, achieving a success rate of 98% before polls close.
