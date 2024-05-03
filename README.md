@@ -41,6 +41,6 @@ day.
   Nominated for the UCSB Academic Senate Award for Teaching Assistants
 
 ## Projects 
-<https://gendergappoliticalpartyleadership.streamlit.app>
+
 
 
