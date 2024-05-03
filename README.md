@@ -22,10 +22,8 @@ race.
 - Employ the K‑means and hierarchical clustering algorithms to identify counties that show similar turnout trends and have similar socioeconomic
 and demographic characteristics.
 - Implement bootstrapping techniques to estimate voter turnout for counties with insufficient data. Utilize available turnout data from sampled reporting units to extrapolate and improve the accuracy of turnout analyses, achieving a success rate of 98% before polls close.
-- Retrieve data stored in MongoDB to develop and deploy Shiny applications for presenting election day operations and performance/actions of the team to stakeholders.
-- Manage the planning and implementation of weekly data science workshops focused on training a team of 8 election researchers in utilizing data visualization
-techniques and the application of machine learning algorithms for predicting voter turnout and updating turnout estimates on election
-day.
+- Retrieve data stored in MongoDB to develop and deploy Shiny applications for presenting election day operations, team performance, and actions to stakeholders.
+- Manage the planning and execution of weekly data science workshops, focusing on training a team of 8 election researchers in utilizing data visualization techniques and machine learning algorithms.
 
 ### Data Science Intern @ Akalan Law Firm (July 2022 - October 2022)
 - Conducted exploratory data analysis using SQL and Python to uncover insights.
