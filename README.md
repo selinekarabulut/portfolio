@@ -1,5 +1,5 @@
 # Data Scientist
-[<img width="30px" src="assets/LI-In-Bug.png">](https://www.linkedin.com/in/selinkarabulut/), [<img width="30px" src="assets/github-mark.png">](https://github.com/selinekarabulut), [<img width="40px" src="assets/LI-In-Bug.png">](https://gendergappoliticalpartyleadership.streamlit.app), [<img width="40px" src="assets/LI-In-Bug.png">](https://public.tableau.com/app/profile/selin8335/vizzes)
+[<img width="22px" src="assets/LI-In-Bug.png">](https://www.linkedin.com/in/selinkarabulut/), [<img width="22px" src="assets/github-mark.png">](https://github.com/selinekarabulut), [<img width="22px" src="assets/LI-In-Bug.png">](https://gendergappoliticalpartyleadership.streamlit.app), [<img width="22px" src="assets/Tableau.png">](https://public.tableau.com/app/profile/selin8335/vizzes)
 
 Hello! I like applying inferential and predictive statistical models to economic, political, and institutional data. I also have significant experience with data cleaning, data management, and statistical programming. 
 
