@@ -1,4 +1,5 @@
 # Data Scientist
+[<img src="/assets/LI-IN-Bug.png">](https://www.linkedin.com/in/selinkarabulut/)
 Hello! I like applying inferential and predictive statistical models to economic, political, and institutional data. I also have significant experience with data cleaning, data management, and statistical programming. 
 
 **Technical Skills:** Python, R, AWS, GCP, Spark, Mongo, SQL, Git, Tableau
