@@ -36,7 +36,7 @@ race, and then deploy these models in production.
 -  Won the Adams‑Lee Distinguished Teaching Assistant Scholarship (x2),\
   Nominated for the UCSB Academic Senate Award for Teaching Assistants
 
-## Projects 
+
 
 
 
