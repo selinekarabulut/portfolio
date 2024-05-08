@@ -25,10 +25,9 @@ race, and then deploy these models in production.
 - Manage the planning and execution of weekly data science workshops, focusing on training a team of 8 election researchers in utilizing data visualization techniques and machine learning algorithms.
 
 ### Data Science Intern @ Akalan Law Firm (July 2022 - October 2022)
-- Conducted exploratory data analysis using SQL and Python to uncover insights.
-- Applied machine learning techniques in Python to estimate future customer churn rates.
-- Developed prescriptive models for ad campaign optimization using machine learning and optimization techniques.
-- Created captivating data visualizations using Tableau to effectively communicate findings to stakeholders.
+- Developed models utilizing machine learning and optimization techniques, leading to a 7% improvement in ad campaign performance.
+- Implemented advanced machine learning algorithms in Python to predict future client churn rates, resulting in a 4% reduction in churn.
+- Created compelling data visualizations with Tableau, facilitating clear and decisive communication with stakeholders.
 
 ### Teaching Assistant @ University of California Santa Barbara (April 2018 - June 2023)
 - Teaching Assistant for Statistical Methods and Political Science courses
