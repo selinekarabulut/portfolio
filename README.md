@@ -13,6 +13,7 @@ Hello! I like applying inferential and predictive statistical models to economic
   - M.A., Political Science
 - Koc University
   - B.A., International Relations
+  - B.A., Philosophy
 
 ## Work Experience
 
