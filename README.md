@@ -22,13 +22,13 @@ Hello! I like applying inferential and predictive statistical models to economic
 race, and then deploy these models in production.
 - Employ the K-means and hierarchical clustering algorithms to identify counties with similar turnout trends and socioeconomic and demographic characteristics.
 - Implement bootstrapping techniques to estimate voter turnout for counties with insufficient data. Utilize available turnout data from sampled reporting units to extrapolate and improve the accuracy of turnout analyses, achieving a success rate of 98% before polls close.
-- Retrieve data stored in MongoDB to develop and deploy Shiny applications for presenting election day operations, team performance, and actions to stakeholders.
+- Extract data from MongoDB to design and develop Shiny applications. Deployed these applications using AWS EC2, effectively presenting real-time election-day operations to stakeholders with enhanced accessibility and clarity.
 - Manage the planning and execution of weekly data science workshops, focusing on training a team of 8 election researchers in utilizing data visualization techniques and machine learning algorithms.
 
 ### Data Science Intern @ Akalan Law Firm (July 2022 - October 2022)
-- Developed models utilizing machine learning and optimization techniques, leading to a 7% improvement in ad campaign performance.
-- Implemented advanced machine learning algorithms in Python to predict future client churn rates, resulting in a 4% reduction in churn.
-- Created compelling data visualizations with Tableau, facilitating clear and decisive communication with stakeholders.
+- Conducted comprehensive data analysis using Python and SQL on large datasets of immigration laws, regulations, case histories, and demographic trends, resulting in a 15\% increase in identifying actionable insights to inform legal strategies and improve case outcomes.
+- Utilized machine learning techniques and predictive modeling tools such as scikit-learn and XGBoost to develop models predicting immigration case outcomes with 80\% accuracy, enabling attorneys to make data-driven decisions and allocate resources effectively.
+- Created dashboards with Tableau, facilitating clear and decisive communication with stakeholders.
 
 ### Teaching Assistant @ University of California Santa Barbara (April 2018 - June 2023)
 - Teaching Assistant for Statistical Methods and Political Science courses
