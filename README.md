@@ -26,8 +26,8 @@ race, and then deploy these models in production.
 - Manage the planning and execution of weekly data science workshops, focusing on training a team of 8 election researchers in utilizing data visualization techniques and machine learning algorithms.
 
 ### Data Science Intern @ Akalan Law Firm (July 2022 - October 2022)
-- Conducted comprehensive data analysis using Python and SQL on large datasets of immigration laws, regulations, case histories, and demographic trends, resulting in a 15\% increase in identifying actionable insights to inform legal strategies and improve case outcomes.
-- Utilized machine learning techniques and predictive modeling tools such as scikit-learn and XGBoost to develop models predicting immigration case outcomes with 80\% accuracy, enabling attorneys to make data-driven decisions and allocate resources effectively.
+- Conducted comprehensive data analysis using Python and SQL on large datasets of immigration laws, regulations, case histories, and demographic trends, resulting in a 15% increase in identifying actionable insights to inform legal strategies and improve case outcomes.
+- Utilized machine learning techniques and predictive modeling tools such as scikit-learn and XGBoost to develop models predicting immigration case outcomes with 80% accuracy, enabling attorneys to make data-driven decisions and allocate resources effectively.
 - Created dashboards with Tableau, facilitating clear and decisive communication with stakeholders.
 
 ### Teaching Assistant @ University of California Santa Barbara (April 2018 - June 2023)
