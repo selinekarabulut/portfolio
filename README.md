@@ -3,6 +3,8 @@
 
 Hello! I like applying inferential and predictive statistical models to economic, political, and institutional data. I also have significant experience with data cleaning, data management, and statistical programming. 
 
+I occasionally post Medium articles on a variety of topics. If interested, [<img width="25px" src="assets/Medium-Symbol-Black-RGB@1x.png">](https://medium.com/@SelinKarabulut)
+
 **Technical Skills:** Python, R, AWS, GCP, Spark, SQL, NoSQL, Git, Tableau
 
 ## Education
