@@ -5,7 +5,7 @@ Hello! I like applying inferential and predictive statistical models to economic
 
 I occasionally post Medium articles on a variety of topics. If interested, [<img width="25px" src="assets/Medium-Symbol-Black-RGB@1x.png">](https://medium.com/@SelinKarabulut)
 
-**Technical Skills:** Python, R, AWS, GCP, Spark, SQL, NoSQL, Git, Tableau
+**Technical Skills:** Python, R, AWS, GCP, Spark, D3, SQL, NoSQL, Git, Tableau
 
 ## Education
 - University of California Santa Barbara
