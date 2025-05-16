@@ -9,16 +9,6 @@ I occasionally post Medium articles on a variety of topics. If interested, [<img
 
 **Technical Skills:** Python, R, SQL, NoSQL, Git, Azure, AWS, GCP, Spark, D3, PowerBI, Tableau
 
-## Education
-- University of California Santa Barbara
-  - Ph.D., Political Science
-  - M.A., Statistics
-- Sabanci University
-  - M.A., Political Science
-- Koc University
-  - B.A., International Relations
-  - B.A., Philosophy
-
 ## Work Experience
 
 ### Economic Analyst (Research and Data Team) @ Washington State Employment Security Department 
@@ -52,6 +42,16 @@ I occasionally post Medium articles on a variety of topics. If interested, [<img
   US Minority Politics, Politics of the Environment
 -  Won the Adams‑Lee Distinguished Teaching Assistant Scholarship (x2),\
   Nominated for the UCSB Academic Senate Award for Teaching Assistants
+
+## Education
+- University of California Santa Barbara
+  - Ph.D., Political Science
+  - M.A., Statistics
+- Sabanci University
+  - M.A., Political Science
+- Koc University
+  - B.A., International Relations
+  - B.A., Philosophy
 
 
 
