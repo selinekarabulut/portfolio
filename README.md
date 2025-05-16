@@ -1,11 +1,11 @@
-# Data Scientist
+# Data Scientist/ Statistician
 [<img width="22px" src="assets/LI-In-Bug.png">](https://www.linkedin.com/in/selinkarabulut/), [<img width="22px" src="assets/github-mark.png">](https://github.com/selinekarabulut), [<img width="35px" src="assets/shiny-og-fb.jpg">](https://selinkarabulut.shinyapps.io/ushousinganddemographics/),[<img width="30px" src="assets/Tableau.png">](https://public.tableau.com/app/profile/selin8335/vizzes), [<img width="22px" src="assets/streamlit-mark-color.png">](https://gendergappoliticalpartyleadership.streamlit.app),[<img width="25px" src="assets/Medium-Symbol-Black-RGB@1x.png">](https://medium.com/@SelinKarabulut)
 
 Hello! I like applying inferential and predictive statistical models to economic, political, and institutional data. I also have significant experience with data cleaning, data management, and statistical programming. 
 
 I occasionally post Medium articles on a variety of topics. If interested, [<img width="25px" src="assets/Medium-Symbol-Black-RGB@1x.png">](https://medium.com/@SelinKarabulut)
 
-**Technical Skills:** Python, R, AWS, GCP, Spark, D3, SQL, NoSQL, Git, Tableau
+**Technical Skills:** Python, R, SQL, NoSQL, Git, Azure, AWS, GCP, Spark, D3, PowerBI, Tableau
 
 ## Education
 - University of California Santa Barbara
@@ -19,18 +19,26 @@ I occasionally post Medium articles on a variety of topics. If interested, [<img
 
 ## Work Experience
 
-### Data Scientist @ The Associated Press (November 2023 - present)
-- Develop time‑series regression models to predict the number of votes received per combination of U.S. geographical location and electoral
-race, and then deploy these models in production.
-- Employ the K-means and hierarchical clustering algorithms to identify counties with similar turnout trends and socioeconomic and demographic characteristics.
-- Implement bootstrapping techniques to estimate voter turnout for counties with insufficient data. Utilize available turnout data from sampled reporting units to extrapolate and improve the accuracy of turnout analyses, achieving a success rate of 98% before polls close.
-- Extract data from MongoDB to design and develop Shiny applications. Deployed these applications using AWS EC2, effectively presenting real-time election-day operations to stakeholders with enhanced accessibility and clarity.
-- Manage the planning and execution of weekly data science workshops, focusing on training a team of 8 election researchers in utilizing data visualization techniques and machine learning algorithms.
+### Economic Analyst (Research and Data Team) @ Washington State Employment Security Department (November 2024- Present)
+- Designed and deployed an interactive R Shiny forecasting tool leveraging cross-validated linear regression and ARIMAX models to simulate staffing needs under various scenarios, driving data-informed decision-making and aligning with business KPIs.
+- Led model diagnostics, forecast comparisons, and interactive scenario export features, equipping cross-functional stakeholders—including operations teams and executive leadership—with actionable insights to optimize workforce planning and service delivery.
+- Contributed to the Azure Synapse migration by documenting data architecture, storage practices, and governance protocols, supporting scalable and compliant cloud data operations.
+- Defined and implemented data stewardship processes, including metadata management, data access standards, and retention policies to improve data governance across departments.
+- Automated request workflows using Power Automate and Azure DevOps, reducing manual workload, increasing transparency, and accelerating turnaround times through real-time status tracking and notifications.
+- Developed and tracked KPIs to evaluate the impact of a critical program change; streamlined data pipelines and built an interactive Power BI dashboard to deliver real-time insights to business and program leadership.
+  
+### Senior Data Scientist (Election Research and Tabulations Team) @ The Associated Press (November 2023 - November 2024)
+- Developed time-series regression models to forecast vote counts by geographic region and race; deployed models in production, enhancing pre-election resource planning and accuracy.
+- Applied K-means and hierarchical clustering to group counties by turnout trends and socioeconomic-demographic characteristics, supporting targeted analysis and outreach strategies.
+- Improved turnout prediction accuracy to 98% using extrapolation techniques from sampled reporting units, delivering timely insights before polls closed.
+- Built and deployed R Shiny applications using data from MongoDB, hosted on AWS EC2, to present real-time election data to internal and public stakeholders with clear, interactive dashboards.
+- Led weekly data science workshops, training a team of 8 researchers on data visualization and machine learning tools, fostering technical skill development and project alignment.
 
 ### Data Science Intern @ Akalan Law Firm (July 2022 - October 2022)
-- Conducted comprehensive data analysis using Python and SQL on large datasets of immigration laws, regulations, case histories, and demographic trends, resulting in a 15% increase in identifying actionable insights to inform legal strategies and improve case outcomes.
-- Utilized machine learning techniques and predictive modeling tools such as scikit-learn and XGBoost to develop models predicting immigration case outcomes with 80% accuracy, enabling attorneys to make data-driven decisions and allocate resources effectively.
-- Created dashboards with Tableau, facilitating clear and decisive communication with stakeholders.
+- Leveraged BERTopic and transformer-based embeddings to detect emerging themes across 50K+ immigration documents and demographic records, enabling pattern recognition that supported strategic program evaluations.
+- Applied machine learning techniques and predictive modeling tools such as scikit-learn and XGBoost to develop models that supported attorneys in making data-driven decisions and optimizing resource allocation.
+- Defined and tracked key performance indicators (KPIs) to evaluate the effectiveness of paid media campaigns, enabling strategic adjustments and measurable ROI.
+- Designed and built interactive dashboards using Tableau, enhancing data storytelling and facilitating clear, actionable communication with diverse stakeholders.
 
 ### Teaching Assistant @ University of California Santa Barbara (April 2018 - June 2023)
 - Teaching Assistant for Statistical Methods and Political Science courses
