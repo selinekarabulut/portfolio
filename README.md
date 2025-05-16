@@ -1,4 +1,5 @@
 # Data Scientist/ Statistician
+(Based in Seattle, Washington)
 [<img width="22px" src="assets/LI-In-Bug.png">](https://www.linkedin.com/in/selinkarabulut/), [<img width="22px" src="assets/github-mark.png">](https://github.com/selinekarabulut), [<img width="35px" src="assets/shiny-og-fb.jpg">](https://selinkarabulut.shinyapps.io/ushousinganddemographics/),[<img width="30px" src="assets/Tableau.png">](https://public.tableau.com/app/profile/selin8335/vizzes), [<img width="22px" src="assets/streamlit-mark-color.png">](https://gendergappoliticalpartyleadership.streamlit.app),[<img width="25px" src="assets/Medium-Symbol-Black-RGB@1x.png">](https://medium.com/@SelinKarabulut)
 
 Hello! I like applying inferential and predictive statistical models to economic, political, and institutional data. I also have significant experience with data cleaning, data management, and statistical programming. 
@@ -19,7 +20,8 @@ I occasionally post Medium articles on a variety of topics. If interested, [<img
 
 ## Work Experience
 
-### Economic Analyst (Research and Data Team) @ Washington State Employment Security Department (November 2024- Present)
+### Economic Analyst (Research and Data Team) @ Washington State Employment Security Department 
+(November 2024- Present)
 - Designed and deployed an interactive R Shiny forecasting tool leveraging cross-validated linear regression and ARIMAX models to simulate staffing needs under various scenarios, driving data-informed decision-making and aligning with business KPIs.
 - Led model diagnostics, forecast comparisons, and interactive scenario export features, equipping cross-functional stakeholders—including operations teams and executive leadership—with actionable insights to optimize workforce planning and service delivery.
 - Contributed to the Azure Synapse migration by documenting data architecture, storage practices, and governance protocols, supporting scalable and compliant cloud data operations.
