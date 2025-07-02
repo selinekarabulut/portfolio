@@ -4,7 +4,7 @@
 [<img width="22px" src="assets/LI-In-Bug.png">](https://www.linkedin.com/in/selinkarabulut/), [<img width="22px" src="assets/github-mark.png">](https://github.com/selinekarabulut), [<img width="35px" src="assets/shiny-og-fb.jpg">](https://selinkarabulut.shinyapps.io/ushousinganddemographics/),[<img width="30px" src="assets/Tableau.png">](https://public.tableau.com/app/profile/selin8335/vizzes), [<img width="22px" src="assets/streamlit-mark-color.png">](https://gendergappoliticalpartyleadership.streamlit.app),[<img width="25px" src="assets/Medium-Symbol-Black-RGB@1x.png">](https://medium.com/@SelinKarabulut)
 
 Hello! I enjoy applying predictive and causal statistical models to economic, political, and institutional data. I write on topics including data science, causal inference, data cleaning and visualization, data-driven social research, and election analytics, with a particular focus on housing affordability, homelessness, gender disparity in politics, elections, and the criminal justice system.
-If interested, https://medium.com/@SelinKarabulut [<img width="25px" src="assets/Medium-Symbol-Black-RGB@1x.png">](https://medium.com/@SelinKarabulut)
+If interested, [click here to visit my Medium profile](https://medium.com/@SelinKarabulut) [<img width="25px" src="assets/Medium-Symbol-Black-RGB@1x.png">](https://medium.com/@SelinKarabulut)
 
 **Programming:**  Python, R, PySpark
 
