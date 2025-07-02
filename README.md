@@ -1,13 +1,15 @@
 # Data Scientist/ Statistician
-(Based in Seattle, Washington)
+(Based in the Greater Seattle area, Washington)
 
 [<img width="22px" src="assets/LI-In-Bug.png">](https://www.linkedin.com/in/selinkarabulut/), [<img width="22px" src="assets/github-mark.png">](https://github.com/selinekarabulut), [<img width="35px" src="assets/shiny-og-fb.jpg">](https://selinkarabulut.shinyapps.io/ushousinganddemographics/),[<img width="30px" src="assets/Tableau.png">](https://public.tableau.com/app/profile/selin8335/vizzes), [<img width="22px" src="assets/streamlit-mark-color.png">](https://gendergappoliticalpartyleadership.streamlit.app),[<img width="25px" src="assets/Medium-Symbol-Black-RGB@1x.png">](https://medium.com/@SelinKarabulut)
 
-Hello! I like applying inferential and predictive statistical models to economic, political, and institutional data. I also have significant experience with data cleaning, data management, and statistical programming. 
+Hello! I enjoy applying predictive and causal statistical models to economic, political, and institutional data. I write on topics including data science, causal inference, data cleaning and visualization, data-driven social research, and election analytics, with a particular focus on housing affordability, homelessness, gender disparity in politics, elections, and the criminal justice system.
+If interested, [<img width="25px" src="assets/Medium-Symbol-Black-RGB@1x.png">](https://medium.com/@SelinKarabulut)
 
-I occasionally post Medium articles on a variety of topics. If interested, [<img width="25px" src="assets/Medium-Symbol-Black-RGB@1x.png">](https://medium.com/@SelinKarabulut)
+**Programming:**  Python, R, PySpark
+**Machine Learning:** Classification (KNN, SVM), Regression Modeling (linear, logistic, regularized, time series), Survival Analysis (Cox, Kaplan‑Meier), Random Forest, PCA (standard, sparse), clustering (K‑means, Hierarchical), Topic Modeling (BERTopic, LDA, NMF), Transformer‑based NLP (BERT, Sentence Transformers)
+**Other:** Causal Inference Design, Survey Research, SQL, NoSQL, PowerBI, Tableau, ArcGIS, Git, Markdown, D3, Azure, GCP, AWS
 
-**Technical Skills:** Python, R, SQL, NoSQL, Git, Azure, AWS, GCP, Spark, D3, PowerBI, Tableau
 
 ## Work Experience
 
